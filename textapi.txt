@@ -1,0 +1,1 @@
+curl -X POST "http://localhost:8000/analyze" -H "Content-Type: application/json" -d '{"case_name":"Mobile Payment Patent Case","case_type":"Patent Infringement","complaint_text":"Tech company accused of patent infringement on mobile payment processing system. Defendant has prior art from 2015, plaintiff filed patent in 2018."}'
