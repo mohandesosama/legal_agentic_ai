@@ -80,5 +80,5 @@ The system successfully generates high-quality legal analysis reports with stron
 ---
 
 ## Author
-LexiMind Solutions  
+Osama Hosameldeen  
 Generated on: 2026-03-12
